@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **iOS apps and Web3.**
 
-- 🌱 I’m planning on learning **, Pottery **
+- 🌱 I’m planning on learning **Pottery**
 
 - 👯 I’m looking to collaborate on **fun and/or useful open source projects.**
 
