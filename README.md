@@ -11,7 +11,7 @@
 <p  align="right">  <img  src="https://komarev.com/ghpvc/?username=piyushsingh9862&label=Profile%20views&color=0e75b6&style=flat"  alt="piyushsingh9862"  /></p>
 
 
-- 🔭 I’m currently working on **iOS apps and Web3.**
+- 🔭 I’m currently working on **iOS apps and FullStack development.**
 
 - 🌱 I’m planning on learning **Pottery**
 
